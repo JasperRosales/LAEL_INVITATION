@@ -167,7 +167,7 @@ export default function App() {
                     This meaningful and joyous occasion will be held on{" "}
                     <span className="font-semibold">May 28, 2026</span>, at{" "}
                     <span className="font-semibold">2:00 PM</span>, in{" "}
-                    <span className="font-semibold">Bagong Tubig</span>.
+                    <span className="font-semibold">Bagong Tubig, Calaca, Batangas</span>.
                     We would be honored by your presence as we celebrate this
                     special milestone and share in this moment of faith, love,
                     and blessing.
